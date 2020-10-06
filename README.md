@@ -1,6 +1,8 @@
 ### Hi there 👋
 My name is Harry, I'm currently undertaking a dual degree comprised of a Diploma of Website Development and a Bachelors of Information Technology.
 
+Always trying to improve my knowledge with practical projects in my spare time. 
+
 <!--
 **HarrisFauntleroy/harrisfauntleroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
