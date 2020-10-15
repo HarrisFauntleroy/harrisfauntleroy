@@ -1,5 +1,6 @@
 ### Hi there 👋
-My name is Harry, I'm currently undertaking a dual degree comprised of a Diploma of Website Development and a Bachelors of Information Technology.
+
+I'm currently studying Web Design and Computer Science.
 
 ### Connect With Me:
 
