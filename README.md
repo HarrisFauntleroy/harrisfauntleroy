@@ -3,6 +3,12 @@ My name is Harry, I'm currently undertaking a dual degree comprised of a Diploma
 
 Always trying to improve my knowledge with practical projects in my spare time. 
 
+<img align="left" alt="HarrisFauntleroy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harrisfauntleroy&show_icons=true&hide_border=true" />
+
+[youtube]: https://www.youtube.com/channel/UCL4xUKWZgMEwx2hNJUBoIYQ
+[twitter]: https://twitter.com/harryfauntleroy
+[instagram]: https://www.instagram.com/harrisfauntleroy.dev/
+
 <!--
 **HarrisFauntleroy/harrisfauntleroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
