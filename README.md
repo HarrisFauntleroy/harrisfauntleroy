@@ -6,6 +6,8 @@
 [<img align="left" alt="HarrisFauntleroy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 </br>
 
+---
+
 <img align="left" alt="HarrisFauntleroy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harrisfauntleroy&show_icons=true&hide_border=true" />
 
 [youtube]: https://www.youtube.com/channel/UCL4xUKWZgMEwx2hNJUBoIYQ
